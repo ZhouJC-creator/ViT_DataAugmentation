@@ -1,0 +1,110 @@
+
+******************** Training ********************
+  Current times = 2025-01-22 12:14:11
+  Total epochs = 25
+  Instantaneous batch size per GPU = 8
+Total Parameter: 	86.3M
+******************** Epoch 1/25 ********************
+Train accuracy for epoch 1: 0.760674
+Valid accuracy for epoch 1: 0.874731
+Best valid accuracy in epoch: 1
+******************** Epoch 2/25 ********************
+Train accuracy for epoch 2: 0.851235
+Valid accuracy for epoch 2: 0.868817
+Best valid accuracy in epoch: 1
+******************** Epoch 3/25 ********************
+Train accuracy for epoch 3: 0.864662
+Valid accuracy for epoch 3: 0.889785
+Best valid accuracy in epoch: 3
+******************** Epoch 4/25 ********************
+Train accuracy for epoch 4: 0.875604
+Valid accuracy for epoch 4: 0.899194
+Best valid accuracy in epoch: 4
+******************** Epoch 5/25 ********************
+Train accuracy for epoch 5: 0.881780
+Valid accuracy for epoch 5: 0.886559
+Best valid accuracy in epoch: 4
+******************** Epoch 6/25 ********************
+Train accuracy for epoch 6: 0.891045
+Valid accuracy for epoch 6: 0.876882
+Best valid accuracy in epoch: 4
+******************** Epoch 7/25 ********************
+Train accuracy for epoch 7: 0.895475
+Valid accuracy for epoch 7: 0.908871
+Best valid accuracy in epoch: 7
+******************** Epoch 8/25 ********************
+Train accuracy for epoch 8: 0.904135
+Valid accuracy for epoch 8: 0.910215
+Best valid accuracy in epoch: 8
+******************** Epoch 9/25 ********************
+Train accuracy for epoch 9: 0.909640
+Valid accuracy for epoch 9: 0.909140
+Best valid accuracy in epoch: 8
+******************** Epoch 10/25 ********************
+Train accuracy for epoch 10: 0.916689
+Valid accuracy for epoch 10: 0.912634
+Best valid accuracy in epoch: 10
+******************** Epoch 11/25 ********************
+Train accuracy for epoch 11: 0.922395
+Valid accuracy for epoch 11: 0.918817
+Best valid accuracy in epoch: 11
+******************** Epoch 12/25 ********************
+Train accuracy for epoch 12: 0.929847
+Valid accuracy for epoch 12: 0.912634
+Best valid accuracy in epoch: 11
+******************** Epoch 13/25 ********************
+Train accuracy for epoch 13: 0.935620
+Valid accuracy for epoch 13: 0.911559
+Best valid accuracy in epoch: 11
+******************** Epoch 14/25 ********************
+Train accuracy for epoch 14: 0.941796
+Valid accuracy for epoch 14: 0.917742
+Best valid accuracy in epoch: 11
+******************** Epoch 15/25 ********************
+Train accuracy for epoch 15: 0.948174
+Valid accuracy for epoch 15: 0.916667
+Best valid accuracy in epoch: 11
+******************** Epoch 16/25 ********************
+Train accuracy for epoch 16: 0.951262
+Valid accuracy for epoch 16: 0.922312
+Best valid accuracy in epoch: 16
+******************** Epoch 17/25 ********************
+Train accuracy for epoch 17: 0.959922
+Valid accuracy for epoch 17: 0.918011
+Best valid accuracy in epoch: 16
+******************** Epoch 18/25 ********************
+Train accuracy for epoch 18: 0.963212
+Valid accuracy for epoch 18: 0.921774
+Best valid accuracy in epoch: 16
+******************** Epoch 19/25 ********************
+Train accuracy for epoch 19: 0.966971
+Valid accuracy for epoch 19: 0.924731
+Best valid accuracy in epoch: 19
+******************** Epoch 20/25 ********************
+Train accuracy for epoch 20: 0.970193
+Valid accuracy for epoch 20: 0.924194
+Best valid accuracy in epoch: 19
+******************** Epoch 21/25 ********************
+Train accuracy for epoch 21: 0.973416
+Valid accuracy for epoch 21: 0.926344
+Best valid accuracy in epoch: 21
+******************** Epoch 22/25 ********************
+Train accuracy for epoch 22: 0.976907
+Valid accuracy for epoch 22: 0.927151
+Best valid accuracy in epoch: 22
+******************** Epoch 23/25 ********************
+Train accuracy for epoch 23: 0.974893
+Valid accuracy for epoch 23: 0.925000
+Best valid accuracy in epoch: 22
+******************** Epoch 24/25 ********************
+Train accuracy for epoch 24: 0.977511
+Valid accuracy for epoch 24: 0.927151
+Best valid accuracy in epoch: 22
+******************** Epoch 25/25 ********************
+Train accuracy for epoch 25: 0.975027
+Valid accuracy for epoch 25: 0.926613
+Best valid accuracy in epoch: 22
+******************** End Training! ********************
+Best Accuracy: 0.927151
+Best Epoch: 22
+******************** End Training! ********************
